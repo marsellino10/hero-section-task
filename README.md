@@ -2,6 +2,18 @@
 
 A simple, responsive Hero Section built with React, Vite, and Tailwind CSS. Includes dynamic content switching with a "Regenerate with AI" button.
 
+## 📖 About the Project
+
+This project features a reusable Hero Section component that showcases a headline, subheadline, image, and call-to-action button. It simulates AI-generated content updates by rotating between pre-defined dummy data, making it suitable for landing pages or marketing sites.
+
+### Key Features:
+- Displays dynamic content (title, subtitle, image, and CTA)
+- "Regenerate with AI" button updates the content instantly
+- Responsive and modern design
+- Local asset support for faster image loading
+
+I built this project to demonstrate front-end skills using modern tooling, component-based architecture, and good UX principles. Dummy content and images were customized to reflect real-world topics like football, food delivery, and e-commerce.
+
 ## 🚀 Setup
 
 1. **Clone the repo**
@@ -23,22 +35,9 @@ npm install
 npm run dev
 ```
 
-4. **Open in browser**  
-Visit: [http://localhost:5173](http://localhost:5173)
-
 ## 🛠 Tech Stack
 
 - React
 - Vite
 - CSS
-
-## 📂 Notes
-
-- Dummy content is located in `src/data/dummyData.js`
-- Images are stored in `src/assets/`
-- You can customize content and style freely
-
----
-
-Feel free to reach out or contribute if you find this useful!
 
