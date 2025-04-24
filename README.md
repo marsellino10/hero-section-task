@@ -19,7 +19,7 @@ I built this project to demonstrate front-end skills using modern tooling, compo
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/hero-section.git
+git clone https://github.com/marsellino10/hero-section-task.git
 cd hero-section
 ```
 
